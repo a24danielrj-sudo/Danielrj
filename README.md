@@ -1,5 +1,5 @@
 # Danielrj
 
-Primera modificación del servidor.
+Primera modificación.
 
 ## Subir una pagina web
